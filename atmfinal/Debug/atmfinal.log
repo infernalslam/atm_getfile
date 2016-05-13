@@ -1,0 +1,17 @@
+﻿Build started 12/17/2014 9:36:49 PM.
+     1>Project "C:\Users\tak\Desktop\C++\fix\atmfinal\atmfinal\atmfinal\atmfinal.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\atmfinal.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         atmfinal.vcxproj -> C:\Users\tak\Desktop\C++\fix\atmfinal\atmfinal\Debug\atmfinal.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\atmfinal.unsuccessfulbuild".
+         Touching "Debug\atmfinal.lastbuildstate".
+     1>Done Building Project "C:\Users\tak\Desktop\C++\fix\atmfinal\atmfinal\atmfinal\atmfinal.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.09
